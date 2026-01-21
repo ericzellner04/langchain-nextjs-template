@@ -17,7 +17,7 @@ export default function Home() {
 
         {/* Logo Mitte */}
         <div className="text-xl font-bold">
-          LOGO
+          DEIN LOGO
         </div>
 
         {/* Suche rechts */}
@@ -32,7 +32,7 @@ export default function Home() {
       </header>
 
       {/* SPRUCH */}
-      <section className="text-center my-8">
+      <section className="text-center my-10">
         <h2 className="text-2xl font-semibold">
           HIER KOMMT DEIN SPRUCH HIN
         </h2>
